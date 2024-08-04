@@ -12,12 +12,12 @@
       <table class="table table-hover table-inverse">
         <tbody>
           <tr>
-            <td>      
-            <% if @user.profile_image.attached? %>
-              <%= image_tag @user.profile_image %>
-            <% else %>
-              <%= image_tag @user.get_profile_image %>
-            <% end %>
+            <td>
+              <% if @user.get_profile_image.attached? %>
+                <%= link_to image_tag(@user.get_profile_image, size: "100x100"), user_path(@user) %>
+              <% else %>
+                <%= link_to image_tag('no_image.jpg', size: "100x100"), user_path(@user) %>
+              <% end %>
             </td>
             <td>
               <%= link_to @book.title, book_path(@book) %>
@@ -25,7 +25,7 @@
             <td><%= @book.body %></td>
             <% if @book.user == current_user %>
               <td class="btn btn-sm btn-success "><%= link_to "Edit", edit_book_path(@book) %></td>
-              <td class="btn btn-sm btn-danger"><%= link_to "Destroy", book_path(@book), method: :delete, deta: { confirm: "本当に消しますか？" } %></td>
+              <td class="btn btn-sm btn-danger"><%= link_to "Destroy", book_path(@book), method: :delete, data: { confirm: "本当に消しますか？" } %></td>
             <% end %>
           </tr>
           <tr>

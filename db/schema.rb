@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2024_07_31_024821) do
+ActiveRecord::Schema.define(version: 2024_08_04_033247) do
 
   create_table "active_storage_attachments", force: :cascade do |t|
     t.string "name", null: false
@@ -50,7 +50,7 @@ ActiveRecord::Schema.define(version: 2024_07_31_024821) do
 
   create_table "users", force: :cascade do |t|
     t.string "name"
-    t.string "body"
+    t.string "introduction"
     t.string "email", default: "", null: false
     t.string "encrypted_password", default: "", null: false
     t.string "reset_password_token"

@@ -21,11 +21,11 @@
           <% @books.each do |book| %>
           <tr>
             <td>      
-            <% if book.user.profile_image.attached? %>
-              <%= image_tag book.user.profile_image %>
-            <% else %>
-              <%= image_tag book.user.get_profile_image %>
-            <% end %>
+              <% if @user.get_profile_image.attached? %>
+                <%= link_to image_tag(@user.get_profile_image, size: "100x100"), user_path(@user) %>
+              <% else %>
+                <%= link_to image_tag('no_image.jpg', size: "100x100"), user_path(@user) %>
+              <% end %>
             </td>
             <td>
               <%= link_to book.title, book_path(book) %>

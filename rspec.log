@@ -295,7 +295,7 @@ Failures:
      [31mFailure/Error: let!(:user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User id: nil, name: "y3ff3lv8s7", body: nil, email: "myesha_swaniawski@borer-johnson.example", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `introduction=' for #<User id: nil, name: "y1531zpxf2", body: nil, email: "arletha@ohara.example", created_at: nil, updated_at: nil>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -313,7 +313,7 @@ Failures:
      [31mFailure/Error: let!(:user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User id: nil, name: "es1no1ehrq", body: nil, email: "jonas@abernathy.test", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `introduction=' for #<User id: nil, name: "wijgznvke1", body: nil, email: "cruz_kshlerin@deckow-lubowitz.example", created_at: nil, updated_at: nil>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -331,7 +331,7 @@ Failures:
      [31mFailure/Error: let(:user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User id: nil, name: "tp2v496vei", body: nil, email: "marhta_hayes@turcotte.example", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `introduction=' for #<User id: nil, name: "06657ugv8c", body: nil, email: "marylin.cremin@johnston-berge.test", created_at: nil, updated_at: nil>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -350,7 +350,7 @@ Failures:
      [31mFailure/Error: let(:user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User id: nil, name: "0nwwrgqyzf", body: nil, email: "thomas_howell@wolff.test", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `introduction=' for #<User id: nil, name: "ug3c41r0gk", body: nil, email: "tamesha@walker-steuber.test", created_at: nil, updated_at: nil>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -369,7 +369,7 @@ Failures:
      [31mFailure/Error: let(:user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User id: nil, name: "zf60cswjd3", body: nil, email: "wiley_feeney@block.test", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `introduction=' for #<User id: nil, name: "4egamxizq4", body: nil, email: "shon@gislason.test", created_at: nil, updated_at: nil>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -388,7 +388,7 @@ Failures:
      [31mFailure/Error: let(:user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User id: nil, name: "if9mddj737", body: nil, email: "kevin_cormier@rice.test", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `introduction=' for #<User id: nil, name: "thdr66fg03", body: nil, email: "clorinda_zemlak@crona.example", created_at: nil, updated_at: nil>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -407,7 +407,7 @@ Failures:
      [31mFailure/Error: let!(:other_user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User id: nil, name: "pb5y8vqas3", body: nil, email: "vance@kling.example", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `introduction=' for #<User id: nil, name: "7pqtbxsb9x", body: nil, email: "ian@feeney.test", created_at: nil, updated_at: nil>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -425,7 +425,7 @@ Failures:
      [31mFailure/Error: let!(:other_user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User id: nil, name: "8km9zf1s1s", body: nil, email: "lula@cormier.example", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `introduction=' for #<User id: nil, name: "5ru893im8d", body: nil, email: "norine.ondricka@batz.test", created_at: nil, updated_at: nil>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -443,7 +443,7 @@ Failures:
      [31mFailure/Error: let!(:other_user) { create(:user) }[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `introduction=' for #<User id: nil, name: "jwh0koxyxu", body: nil, email: "vanda@klocko-marks.test", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `introduction=' for #<User id: nil, name: "tpdubg7xpl", body: nil, email: "dudley@bins-rutherford.example", created_at: nil, updated_at: nil>[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
      [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -461,7 +461,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "ubp59opy3k", body: nil, email: "karl@cronin.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "kdww1xa9d2", body: nil, email: "theola.ryan@kunze.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -479,7 +479,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "7ovgs902by", body: nil, email: "millard@kassulke-turcotte.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "lk9plrbnk4", body: nil, email: "pamula@hintz-schoen.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -497,7 +497,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "a1wdjl2zku", body: nil, email: "rodrick@stroman.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "ei61i9uja4", body: nil, email: "leia.roberts@huels.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -515,7 +515,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "sux0suco5t", body: nil, email: "garfield.mcclure@jerde.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "2lgsnen5ao", body: nil, email: "trent.russel@kemmer.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -533,7 +533,7 @@ Failures:
       [31mFailure/Error: let!(:other_user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "95vu7ul9pc", body: nil, email: "terra_waters@mosciski-denesik.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "9mn3jl88j7", body: nil, email: "minh@batz.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -588,7 +588,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "hhad5vs6zp", body: nil, email: "leopoldo@sauer.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "0igjhn4ao1", body: nil, email: "clement@trantow.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -607,7 +607,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "gnmv2huucz", body: nil, email: "noble.ebert@bednar.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "pjj1l7v6l2", body: nil, email: "irmgard@nitzsche-stehr.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -626,7 +626,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "x6tuq2io79", body: nil, email: "herb@stamm.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "vp99fo4sdo", body: nil, email: "calvin.jakubowski@bailey-feil.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -645,7 +645,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "6j07afbcwm", body: nil, email: "bambi.damore@kemmer.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "q4u309dg4m", body: nil, email: "terry_lindgren@carter.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -664,7 +664,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "zcgbkf8fy6", body: nil, email: "lashunda.cartwright@lockman.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "4rddd7m74y", body: nil, email: "byron@bashirian.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -683,7 +683,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "kbeadqynqh", body: nil, email: "douglas_weissnat@kuhic-hodkiewicz.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "b2efo9mzj7", body: nil, email: "jame@stark.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -702,7 +702,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "vnssef970g", body: nil, email: "osvaldo@bernhard.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "xxcv3jhpl1", body: nil, email: "lewis_gulgowski@barrows-gleason.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -721,7 +721,7 @@ Failures:
       [31mFailure/Error: let(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "srngeqkt5r", body: nil, email: "german_mraz@cummerata-ortiz.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "7373cptd1o", body: nil, email: "roseann.schulist@moen-lynch.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -740,7 +740,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "adend90unh", body: nil, email: "florencio@kulas-schmidt.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "rltnip10nq", body: nil, email: "cecila_boehm@wiza.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -758,7 +758,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "nkiy6ieirx", body: nil, email: "nettie.moen@cruickshank.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "olpdux43s3", body: nil, email: "randell@russel.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -776,7 +776,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "k4jrmzp4w1", body: nil, email: "candy@parker-conroy.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "hz008aosph", body: nil, email: "emmitt@bahringer.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -794,7 +794,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "ih4klm3zi5", body: nil, email: "winford@bosco-willms.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "tq1xdjvosr", body: nil, email: "zane@cummings.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -812,7 +812,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "7cbmpft2sd", body: nil, email: "kevin@leuschke.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "isap3anv0u", body: nil, email: "stevie_cassin@bergnaum.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -830,7 +830,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "2kw2f0q5e8", body: nil, email: "johnathon@mcdermott-kozey.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "td60fiy10p", body: nil, email: "danna.lowe@lubowitz.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -848,7 +848,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "f1m1r9d01j", body: nil, email: "renate.wilkinson@torp.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "mlu2fk1plq", body: nil, email: "matthew@rau.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -866,7 +866,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "b9jixfuo6h", body: nil, email: "lloyd.toy@monahan.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "wwmsyj6pxn", body: nil, email: "toby_white@hickle.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -884,7 +884,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "ibx1bw1j0u", body: nil, email: "samatha_stroman@langosh.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "unlt15vrg7", body: nil, email: "rusty@klocko-huels.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -902,7 +902,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "z48tn1rc4m", body: nil, email: "kyle_buckridge@schmidt-green.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "esayjmb2kz", body: nil, email: "mitsue@aufderhar-gleichner.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -920,7 +920,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "mbj100m5o7", body: nil, email: "anisha.turcotte@hamill.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "frw22n2yob", body: nil, email: "enriqueta@kilback.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -938,7 +938,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "o8efq48ahh", body: nil, email: "lonny@botsford-harvey.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "m0aryf3rld", body: nil, email: "marlon@waters.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -956,7 +956,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "obcp7w3gr1", body: nil, email: "elsie_crona@hammes.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "osrr0vwk4e", body: nil, email: "genia@nitzsche.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -974,7 +974,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "0gn2nmknk4", body: nil, email: "lera@ondricka-kub.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "cf14idfpxe", body: nil, email: "clarisa_kohler@barrows-buckridge.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -992,7 +992,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "t02xfrh5da", body: nil, email: "hilma@heaney-kemmer.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "vv5r47kq72", body: nil, email: "caitlin_stoltenberg@luettgen-mcclure.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1010,7 +1010,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "xjxdf0170i", body: nil, email: "toney_schmitt@west-frami.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "9hf6bplo56", body: nil, email: "kimi.lubowitz@okon.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1028,7 +1028,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "5hkzmvew8c", body: nil, email: "emmy@towne.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "i4s6w6k0f6", body: nil, email: "charmaine@kihn-breitenberg.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1046,7 +1046,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "7m2gat3m9e", body: nil, email: "chet@rowe-gleason.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "es6ylu9u4c", body: nil, email: "grant.herman@hickle.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1064,7 +1064,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "eona8e0dxg", body: nil, email: "chi@bashirian-walter.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "amb55gcmbi", body: nil, email: "jessika_durgan@friesen-gislason.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1082,7 +1082,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "t5s7hs46hy", body: nil, email: "georgiana.hermann@deckow.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "a6p5k5k3wc", body: nil, email: "jeffie.yost@ohara-kassulke.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1100,7 +1100,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "ellju87a7w", body: nil, email: "leonel@hermann-kiehn.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "hyip4y6ioq", body: nil, email: "michal.nienow@feeney-farrell.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1118,7 +1118,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "2r4ec8yk3y", body: nil, email: "tomi_bartoletti@wisozk.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "fx9ogktl2v", body: nil, email: "marlana@becker-ruecker.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1136,7 +1136,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "o6q8cvhaw6", body: nil, email: "melodie@beatty.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "jj0rkeueit", body: nil, email: "bernard@walsh-kuhn.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1154,7 +1154,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "6ctz8jbmsf", body: nil, email: "tonia.johnson@volkman-ullrich.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "kzj7q5rwik", body: nil, email: "edison_kassulke@rice.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1172,7 +1172,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "3523vljxwn", body: nil, email: "mark@lemke-brekke.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "edrr555yj8", body: nil, email: "leonard@kuhic.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1190,7 +1190,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "bvuenb4kfh", body: nil, email: "madeleine@lehner.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "oz4st5gug0", body: nil, email: "celestine_armstrong@zboncak-hilll.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1208,7 +1208,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "ouu3kpk2i7", body: nil, email: "santos@macejkovic.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "9bd4ww4ie9", body: nil, email: "valeri@doyle-rutherford.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1226,7 +1226,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "37wnfix8wj", body: nil, email: "edgar@legros-maggio.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "x10tpulxp0", body: nil, email: "cira.stiedemann@harris.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1244,7 +1244,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "f2xt6d5v4x", body: nil, email: "rich@kshlerin.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "c3cej8zvhc", body: nil, email: "natasha@johnson-keebler.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1262,7 +1262,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "iba7gvm4ox", body: nil, email: "mallie.marks@bogisich.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "gx9q8ti0sh", body: nil, email: "madelene@lueilwitz-boehm.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1280,7 +1280,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "xy5a2kx07b", body: nil, email: "ahmed@conroy.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "6cfdbl6uf8", body: nil, email: "natacha@grimes.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1298,7 +1298,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "sd6k8wm26s", body: nil, email: "brett@fisher.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "oisuf6t9o0", body: nil, email: "marlin_rath@mclaughlin.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1316,7 +1316,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "10v6nycqxa", body: nil, email: "marylee@corwin.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "1aqg5cunjr", body: nil, email: "kurtis_oberbrunner@beatty.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1334,7 +1334,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "7agyncq83l", body: nil, email: "moses@ryan.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "3ujvcagc5e", body: nil, email: "nicolas@ullrich-hodkiewicz.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1352,7 +1352,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "959uh9eof1", body: nil, email: "hae.hills@ruecker.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "9xqndr3k0n", body: nil, email: "georgene_hills@kovacek.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1370,7 +1370,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "rx8ljrrbbl", body: nil, email: "mayra.beier@prosacco.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "o9cfr3ytlu", body: nil, email: "maximo@schoen-buckridge.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1388,7 +1388,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "cqoodjpw04", body: nil, email: "hisako@dickens.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "0io3vda4tz", body: nil, email: "damon@fay.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1406,7 +1406,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "f95mzc8v8y", body: nil, email: "omer_howe@hermiston.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "kikc5nwmr8", body: nil, email: "hubert@hahn.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1424,7 +1424,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "1fkfivskoa", body: nil, email: "freddie.jacobi@rogahn.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "j43aekurhn", body: nil, email: "constance_abbott@dubuque-wuckert.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1442,7 +1442,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "63l158m2zc", body: nil, email: "tressie@kerluke.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "2z7pjy164f", body: nil, email: "nery_boyle@rath-hackett.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1460,7 +1460,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "zfuzu8d43k", body: nil, email: "elaine@walker.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "e6xirinp50", body: nil, email: "alonso_gottlieb@homenick-kilback.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1478,7 +1478,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "2f9q8u5rht", body: nil, email: "tyrone_doyle@hintz.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "6f9557g38c", body: nil, email: "zita.donnelly@moen-grady.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1496,7 +1496,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "jxqdq65u1l", body: nil, email: "elissa.wintheiser@sipes-ritchie.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "oo8fc9orkh", body: nil, email: "alice_nicolas@jakubowski.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1514,7 +1514,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "p8rwzufi37", body: nil, email: "dexter.torp@conroy.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "42qp33ihdl", body: nil, email: "isiah@kemmer-batz.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1532,7 +1532,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "y4pe05h3ut", body: nil, email: "houston@strosin-jacobs.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "s6nkbiwu2j", body: nil, email: "delma@conroy.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1550,7 +1550,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "jhe5ugfdlq", body: nil, email: "jacquelin@thiel.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "cn3j6xemk8", body: nil, email: "india@ruecker.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1568,7 +1568,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "yvrc7nc790", body: nil, email: "clement_blanda@kuhic.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "0po4kkh9mo", body: nil, email: "bettie.ankunding@reynolds-breitenberg.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1586,7 +1586,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "hod0spq6yv", body: nil, email: "quinn@moen.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "21c7ypmaei", body: nil, email: "edward_maggio@leannon-leannon.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1604,7 +1604,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "y2ilrqpvpv", body: nil, email: "sha@champlin-cummerata.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "23y4vos3pl", body: nil, email: "thelma_heidenreich@zieme-maggio.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1622,7 +1622,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "mkefg2i8vt", body: nil, email: "hiram_smitham@abbott.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "wiz4931428", body: nil, email: "maryetta.zboncak@wolff.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1640,7 +1640,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "ehpk79ufb9", body: nil, email: "maira@hintz-mayert.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "l9yzx67s26", body: nil, email: "sanford_krajcik@schuppe-nitzsche.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1658,7 +1658,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "cpua03f0fn", body: nil, email: "kristie@mcclure-nienow.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "s20y3mbu1l", body: nil, email: "nelson@ullrich-zboncak.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1676,7 +1676,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "on2nypdr85", body: nil, email: "debroah_howell@cormier-bogan.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "llz5ixwntb", body: nil, email: "robt_schulist@crona-walsh.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1694,7 +1694,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "gnrc9c3owi", body: nil, email: "lucas_cronin@considine.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "xjz05t0pxb", body: nil, email: "buster@luettgen.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1712,7 +1712,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "2drlizq3gt", body: nil, email: "reva.hoeger@kassulke.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "88imju2xr7", body: nil, email: "sabine@hegmann.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1730,7 +1730,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "3te53ruq31", body: nil, email: "hershel_kunde@kshlerin.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "eh4wmk66ua", body: nil, email: "molly.parisian@zulauf.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1748,7 +1748,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "3lnceftm50", body: nil, email: "jeni.johnston@hamill-wunsch.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "2o3pfw2c62", body: nil, email: "leandro.kling@mante.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1766,7 +1766,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "fys3092p5w", body: nil, email: "noble.lang@kihn-hauck.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "ljqw2uj95s", body: nil, email: "drew_heidenreich@kihn.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1784,7 +1784,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "wrthiaifec", body: nil, email: "ali@skiles.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "zf8une0oxq", body: nil, email: "benny.anderson@fisher.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1802,7 +1802,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "0w8md29ije", body: nil, email: "marquitta@renner-donnelly.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "3uwia8peio", body: nil, email: "blake@schoen-cormier.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1820,7 +1820,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "atxtsa8tmh", body: nil, email: "elfriede@beer.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "e8vzafrut3", body: nil, email: "nereida@beier.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1838,7 +1838,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "pun45bdru4", body: nil, email: "palmer_klein@cormier.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "ux3k3c0ps9", body: nil, email: "dick@blick-batz.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1856,7 +1856,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "swns6sy702", body: nil, email: "adena@upton.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "ed2x98lzgr", body: nil, email: "hollis@murray-dare.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1874,7 +1874,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "5a0bakqt24", body: nil, email: "arianna@cronin-zboncak.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "ylabkj4csg", body: nil, email: "dudley@gislason.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1892,7 +1892,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "hpuooizdkt", body: nil, email: "tierra.harris@cremin.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "55xqor0miu", body: nil, email: "paulene@nicolas.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1910,7 +1910,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "feu61pjcc6", body: nil, email: "anja@kling.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "6xzk8e80zf", body: nil, email: "isaac.kemmer@cummerata.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1928,7 +1928,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "ry5nbuljhj", body: nil, email: "isidro.reinger@corwin-weissnat.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "7h15kwkjcx", body: nil, email: "fredricka@nader.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1946,7 +1946,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "n8wefkqfpx", body: nil, email: "nancy.raynor@kris.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "1ayk2blpvr", body: nil, email: "krysta.christiansen@crooks.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1964,7 +1964,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "8hllgm642d", body: nil, email: "larry_glover@fadel.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "7e4t6tje6m", body: nil, email: "jame_olson@ziemann.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -1982,7 +1982,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "ywetldf9fn", body: nil, email: "santo_wintheiser@moore-osinski.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "sckgg71so6", body: nil, email: "darren_kilback@gutkowski.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2000,7 +2000,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "kuy5x2quf9", body: nil, email: "gary@kutch-grady.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "q4denosj7r", body: nil, email: "leonie.reichert@grady.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2018,7 +2018,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "2x6a3wt59p", body: nil, email: "broderick.schoen@crist.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "f77d45z6fe", body: nil, email: "marcelle.thiel@bechtelar.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2036,7 +2036,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "vqvmm23g3w", body: nil, email: "emile.rodriguez@swaniawski-veum.test", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "r7qq1t79yi", body: nil, email: "malorie@spencer-kutch.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2054,7 +2054,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "czoxzbwesi", body: nil, email: "merna.carroll@luettgen.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "p846ewv8i6", body: nil, email: "nora_cruickshank@marks.example", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2072,7 +2072,7 @@ Failures:
       [31mFailure/Error: let!(:user) { create(:user) }[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `introduction=' for #<User id: nil, name: "ervcopav96", body: nil, email: "rosamaria@zulauf.example", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `introduction=' for #<User id: nil, name: "mgxbi5w63p", body: nil, email: "mike@torphy.test", created_at: nil, updated_at: nil>[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
       [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2090,7 +2090,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "7ebsux9bpw", body: nil, email: "matthew@king-davis.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "oqcncn8jmk", body: nil, email: "alberta@feil.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2108,7 +2108,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "b4kcirh7ge", body: nil, email: "justine.rohan@leannon-dibbert.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "8dvkzd3yqr", body: nil, email: "blake@lakin.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2126,7 +2126,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "rx7bh1hn6o", body: nil, email: "santiago@little-willms.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "jt0xptbarl", body: nil, email: "jean@collins-tillman.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2144,7 +2144,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "pba7b9hj1t", body: nil, email: "ivette@spencer.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "td855laj6m", body: nil, email: "myron@renner.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2162,7 +2162,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "yw40k48bfx", body: nil, email: "shanon@reilly-schmidt.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "7um335g2ft", body: nil, email: "whitney.tillman@stroman.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2180,7 +2180,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "ajm39pvjnp", body: nil, email: "elanor@collins.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "qu5v3evm4t", body: nil, email: "elvis_stamm@graham.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2198,7 +2198,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "8sif7l2307", body: nil, email: "virgie_mertz@price.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "i9ukzzwenc", body: nil, email: "larraine.purdy@torphy.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2216,7 +2216,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "ho6c6bmrdg", body: nil, email: "sheron@hammes-lesch.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "3p62hx0zce", body: nil, email: "vernell@ziemann.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2234,7 +2234,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "q9qtpaizcq", body: nil, email: "carol_lockman@walsh.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "fo5zvwmjpq", body: nil, email: "takisha.kassulke@muller.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2252,7 +2252,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "udda7h6p5x", body: nil, email: "chris@mayer-gorczany.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "nvj0eej8hn", body: nil, email: "aaron.cronin@bednar-mayert.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2270,7 +2270,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "sh1h2veopa", body: nil, email: "emmett@carroll.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "gpuw11zfag", body: nil, email: "marianela_padberg@green-goldner.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2288,7 +2288,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "lqsb2mg7bf", body: nil, email: "carolina_oberbrunner@denesik.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "ozr5l1bilw", body: nil, email: "basil.mcglynn@moen-welch.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2306,7 +2306,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "694g6ut2sk", body: nil, email: "kit@jakubowski-bailey.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "c91yxclyj7", body: nil, email: "rafael@ullrich.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2324,7 +2324,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "3mnwi9hrri", body: nil, email: "britt@wisoky-thompson.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "7z4jakg9u7", body: nil, email: "bennie@denesik-jacobi.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2342,7 +2342,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "x7ylshj8o0", body: nil, email: "shaunna@abbott.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "j7usdojl7c", body: nil, email: "jerri@bradtke.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2360,7 +2360,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "yu1rwpts8b", body: nil, email: "glenn_wolff@hackett.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "3dq7xpb3ux", body: nil, email: "deidre_damore@hamill.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2378,7 +2378,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "hua0lxtv70", body: nil, email: "bernie_reichert@johnston.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "7c139xrzt0", body: nil, email: "zetta_reichert@hirthe.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2396,7 +2396,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "3jznrf40yh", body: nil, email: "kerstin@mohr.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "qshqgklawl", body: nil, email: "jesse_hills@carter-ortiz.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2414,7 +2414,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "vnhitnpia0", body: nil, email: "kelvin@fadel.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "ec7hy4h71j", body: nil, email: "oswaldo.damore@hansen.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2432,7 +2432,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "1dmkb3zrut", body: nil, email: "julio@reilly-rolfson.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "dae71iolbb", body: nil, email: "thanh.jacobson@brekke-mohr.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2450,7 +2450,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "aqfu1kabkf", body: nil, email: "catalina.dooley@reichert-tillman.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "tx2fa089r1", body: nil, email: "rod@feest-ritchie.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2468,7 +2468,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "oo0nvxr5mj", body: nil, email: "sade.veum@mills-morar.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "09iox7hm3l", body: nil, email: "octavio@osinski.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2486,7 +2486,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "q36edpvtuz", body: nil, email: "artie@dicki.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "nt6wuo84bw", body: nil, email: "solange@wiegand.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2504,7 +2504,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "ncn4xxcf2a", body: nil, email: "tawanda_rath@lubowitz-schinner.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "ovl7bwtced", body: nil, email: "jean@berge.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2522,7 +2522,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "siqmrz0h99", body: nil, email: "philip.buckridge@lockman-hand.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "wpgk4yxh2q", body: nil, email: "rachelle.wintheiser@bogan-blick.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2540,7 +2540,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "zd4fl9txf1", body: nil, email: "ines.boyle@murazik.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "7icya0cok2", body: nil, email: "arthur.buckridge@nolan.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2558,7 +2558,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "lmwo0v5d6t", body: nil, email: "booker.ondricka@oconner.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "rmk02abh2f", body: nil, email: "merrill@farrell.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2576,7 +2576,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "nvb8f0le94", body: nil, email: "margart@kutch.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "21lzvl76m7", body: nil, email: "erica_fahey@metz.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2594,7 +2594,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "f2orlqqqvg", body: nil, email: "wade@gutkowski.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "rikzc9ba8i", body: nil, email: "daniel@king.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2612,7 +2612,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "t00kjp8uyu", body: nil, email: "odell@lueilwitz.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "2xsp18x8fq", body: nil, email: "micheal_yundt@treutel.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2630,7 +2630,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "v50e8hfx3g", body: nil, email: "mauro@bins.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "jhc9v6yh70", body: nil, email: "lindsy_keebler@berge.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2648,7 +2648,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "8jrni7c38a", body: nil, email: "senaida.murray@ondricka-grimes.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "if0l0oitv6", body: nil, email: "flora@luettgen.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2666,7 +2666,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "3n63qoaxg9", body: nil, email: "particia@steuber.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "cxt6t2miha", body: nil, email: "ariane@feil.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2684,7 +2684,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "9snlcy3oxf", body: nil, email: "travis@reilly.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "r07l4so56q", body: nil, email: "jettie@halvorson.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2702,7 +2702,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "vsyc337jzh", body: nil, email: "dionna@kunze.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "0x6wq9hrww", body: nil, email: "melonie_miller@lowe-rogahn.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2720,7 +2720,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "hjo4bh62hi", body: nil, email: "leslie@purdy.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "jzuxrzkdxa", body: nil, email: "keesha@haley.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2738,7 +2738,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "1n9uufhpwo", body: nil, email: "coleman_stroman@bosco-schiller.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "neteos60vf", body: nil, email: "ismael@halvorson-yundt.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2756,7 +2756,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "k3tvjqpxfi", body: nil, email: "mckenzie.okon@heidenreich.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "nyox30l9fv", body: nil, email: "colin@altenwerth-davis.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2774,7 +2774,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "e9sp03v8eh", body: nil, email: "refugio@hoeger.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "zg7bbhdw19", body: nil, email: "alexander_ebert@reichert.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2792,7 +2792,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "br0p02zo7j", body: nil, email: "toni@morissette-moen.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "m3b6rbz8at", body: nil, email: "hui@donnelly.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2810,7 +2810,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "3b9wnmujax", body: nil, email: "brandon.schamberger@cartwright-farrell.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "nuj2hlgyqo", body: nil, email: "wally@kling.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2828,7 +2828,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "aj3pk0dqow", body: nil, email: "aaron@langosh.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "nssla3ia2k", body: nil, email: "cristy@davis-ryan.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2846,7 +2846,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "gjgaio1gif", body: nil, email: "erica@schoen.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "zaw6c87mi7", body: nil, email: "beau@abbott.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2864,7 +2864,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "ras0cbsosc", body: nil, email: "sondra@schulist.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "uzy93srwjn", body: nil, email: "fred.boehm@lueilwitz.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2882,7 +2882,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "5czeqwa8kl", body: nil, email: "adriane@grimes.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "iixuf3pvez", body: nil, email: "fritz@beatty.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2900,7 +2900,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "kk1emouj65", body: nil, email: "estella.hauck@okon.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "cf4rywlfm1", body: nil, email: "margarito.ledner@harris.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2918,7 +2918,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "evmln7tv7e", body: nil, email: "jarred@jerde.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "nwxs10kual", body: nil, email: "irvin@renner-harvey.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2936,7 +2936,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "9mwp8pzm9c", body: nil, email: "alphonse_fisher@schaefer-schumm.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "dptjbqqplj", body: nil, email: "timmy@christiansen-gibson.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2954,7 +2954,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "4uu4im62cj", body: nil, email: "shirlee_yost@sauer.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "1vs5cdts5h", body: nil, email: "renaldo.kilback@hauck-brown.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2972,7 +2972,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "3ocg4xy1wn", body: nil, email: "jaclyn_kshlerin@schmidt.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "x1m9df6sj5", body: nil, email: "dale.schoen@damore-padberg.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -2990,7 +2990,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "1lomyt8edx", body: nil, email: "hanna@kunze-kilback.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "nugq4ziwhd", body: nil, email: "kennith@maggio-oreilly.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3008,7 +3008,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "pwrzv6syaj", body: nil, email: "zachary_kuhn@leuschke.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "7wn6v217tk", body: nil, email: "tory.bauch@leannon-koelpin.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3026,7 +3026,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "db4tpu85t4", body: nil, email: "herman@walter-bayer.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "zsf8yj4bvp", body: nil, email: "chi_kautzer@howe-wisozk.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3044,7 +3044,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "1h9akmtiow", body: nil, email: "mack_sanford@hayes.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "k97c20oedk", body: nil, email: "virgil@hermann.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3062,7 +3062,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "fqx0lu75h6", body: nil, email: "nakia.reilly@runte.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "yameds4szi", body: nil, email: "israel.stamm@schulist-lang.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3080,7 +3080,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "y8lmriig4w", body: nil, email: "shawn@nikolaus.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "byqpcos741", body: nil, email: "lashon@funk-miller.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3098,7 +3098,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "18gthcq70n", body: nil, email: "crystle@deckow.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "f54nutg4ug", body: nil, email: "felton@heidenreich.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3116,7 +3116,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "njfz3c97e9", body: nil, email: "hank_schaefer@kiehn-nitzsche.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "44e4da7lx5", body: nil, email: "marquetta@mclaughlin.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3134,7 +3134,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "n1hljnmzg7", body: nil, email: "keven.boyle@fahey-bauch.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "onu3xrs34k", body: nil, email: "kary@bruen.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3152,7 +3152,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "dl5azblvdy", body: nil, email: "bernadette@kautzer.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "51y2k8enoq", body: nil, email: "timothy.walker@auer.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3170,7 +3170,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "w4gqxp42ll", body: nil, email: "bennett.wolf@lehner-russel.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "fwofbgsm0g", body: nil, email: "hans@bailey-swaniawski.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3188,7 +3188,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "jnmn693m6n", body: nil, email: "lorene.sipes@bode-gerlach.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "lp0hq3o9u3", body: nil, email: "bennett@will.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3206,7 +3206,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "mnr65g0jtx", body: nil, email: "carlyn@kovacek.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "z5dkw3k626", body: nil, email: "dian_turcotte@conroy-jast.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3224,7 +3224,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "icruiy2zpv", body: nil, email: "vernie.bahringer@denesik-rice.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "pak6d8a7xs", body: nil, email: "lorenzo_leannon@kerluke-koepp.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3242,7 +3242,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "h93h8zzhdp", body: nil, email: "myrtice@hilpert.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "c2nls5ynzf", body: nil, email: "adelle_hermann@dare-oreilly.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3260,7 +3260,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "kp7kxmybs3", body: nil, email: "coreen_harris@muller-gleichner.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "1drqhusac0", body: nil, email: "vannesa@purdy.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3278,7 +3278,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "izbahi7503", body: nil, email: "rolland_stroman@fahey.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "23e9d0xh6r", body: nil, email: "stewart@volkman.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3296,7 +3296,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "9kpxjtm4j4", body: nil, email: "jeffery@schimmel-torphy.test", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "4wettxr9ni", body: nil, email: "britt@erdman.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3314,7 +3314,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "uswycpfqfq", body: nil, email: "tien.bradtke@ryan.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "bpb4d68bfm", body: nil, email: "freddie_jacobi@reichert.test", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3332,7 +3332,7 @@ Failures:
        [31mFailure/Error: let!(:user) { create(:user) }[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `introduction=' for #<User id: nil, name: "ybg2q0us5y", body: nil, email: "taylor_gerhold@hermann.example", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `introduction=' for #<User id: nil, name: "2vn3puuh5a", body: nil, email: "derrick.goldner@gerhold.example", created_at: nil, updated_at: nil>[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `public_send'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:16:in `block (2 levels) in object'[0m
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/attribute_assigner.rb:15:in `each'[0m
@@ -3346,7 +3346,7 @@ Failures:
        [36m# /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/factory_bot-6.4.6/lib/factory_bot/strategy_syntax_method_registrar.rb:28:in `block in define_singular_strategy_method'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
-Finished in 2.91 seconds (files took 3.96 seconds to load)
+Finished in 2.94 seconds (files took 2.04 seconds to load)
 [31m201 examples, 169 failures[0m
 
 Failed examples:
